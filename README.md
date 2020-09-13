@@ -4,6 +4,8 @@
 
 My name is Maël and I am a web developer. 💻
 
+<img height="128" width="128" alt="Couapy's logo" align="center" src="https://github.com/Couapy/Coaupy/raw/master/assets/logo.svg">
+
 ## My story
 
 Since childhood, I have been interested in technologies, and more particularly: Internet.
@@ -11,20 +13,9 @@ When I was in college, I set up my first site, then I wanted to code it by mysel
 
 ## My skills
 
-Now, that is to say years later, I master many languages such as:
+Now, that is to say years later, I master many languages such as: HTML, PHP 🐘, Python 🐍, CSS and Javascript.
 
-- HTML
-- PHP
-- Python
-- CSS
-- Javascript
-
-And tools like:
-
-- Django
-- Bootstrap
-- Git / Github
-- Linux 🐧
+And tools like: Django, Bootstrap, Git / Github and Linux 🐧
 
 ## My projects
 
