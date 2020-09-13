@@ -4,7 +4,7 @@
 
 My name is Maël and I am a web developer. 💻
 
-<div style="text-align: center;"><img height="128" width="128" alt="Couapy's logo" src="https://github.com/Couapy/Couapy/raw/master/assets/logo.svg"></div>
+<div align="center"><img height="128" width="128" alt="Couapy's logo" align="center" src="https://github.com/Couapy/Couapy/raw/master/assets/logo.svg"></div>
 
 ## My story
 
