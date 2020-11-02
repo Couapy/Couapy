@@ -6,7 +6,7 @@ My name is Maël and I am a web developer. 💻
 
 <div align="center"><img height="128" width="128" alt="Couapy's logo" align="center" src="https://github.com/Couapy/Couapy/raw/master/assets/logo.svg"></div>
 
-<div align="center"><![Couapy's github stats](https://github-readme-stats.vercel.app/api?username=Couapy)</div>
+<div align="center">![Couapy's github stats](https://github-readme-stats.vercel.app/api?username=Couapy)</div>
 
 ## My story
 
