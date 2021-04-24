@@ -1,31 +1,30 @@
-# Couapy
+# Maël
 
 👋 Hello there !
 
-My name is Maël and I am a web developer. 💻
-
-<div align="center"><img height="128" width="128" alt="Couapy's logo" align="center" src="https://github.com/Couapy/Couapy/raw/master/assets/logo.svg"></div>
-
-![Couapy's github stats](https://github-readme-stats.vercel.app/api?username=Couapy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Couapy&layout=compact)
+My name is Maël and I am a software engineer student. 💻
 
 ## My story
 
-Since childhood, I have been interested in technologies, and more particularly: Internet.
-When I was in college, I set up my first site, then I wanted to code it by myself.
+Since childhood, I have been interested in technologies, and more particularly Internet.
+When I was at middle school, I set up my first site, then I wanted to code it by myself.
 
-## My skills
+Currently I am a software engineer student at the @UTT (University of Technology of Troyes) specialized in Informatic and Information Systems.
 
-Now, that is to say years later, I master many languages such as: HTML, PHP 🐘, Python 🐍, CSS and Javascript.
+## My stack
 
-And tools like: Django, Bootstrap, Git / Github and Linux 🐧
+Now, that is to say years later, I master many languages such as: Python (Django) 🐍, JavaScript, Java ☕, HTML5 and CSS3 with Bootstrap.
+
+To execute my applications on my personal server, I use Docker 🚢.
+
+Of course, I master git / GitHub, and other tools like linux (archlinux on my main PC).
 
 ## My projects
 
-Here on my github you can see all the projects that I have participated in that have allowed me to obtain the above skills.
-We're always learning, so the list of my projects will never end :)
+All my projects are open-sourced, so you can check all my code !
+
+Just for you, I pinned my favorite projects below (don't hesitate to check it and send me your feedback by mail).
 
 ## Contact
 
-You can contact me at: contact [at] Marchand.cloud
+You can contact me at: contact [at] marchand.cloud
